@@ -1,0 +1,19 @@
+{
+  "name": "bodybuilding.com-crawler",
+  "version": "0.1.0",
+  "description": "The data crawling from bodyduilding.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Jeloo",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.0.2",
+    "typescript": "^2.0.3"
+  },
+  "dependencies": {
+    "slimerjs": "^0.906.2"
+  }
+}
