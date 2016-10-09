@@ -2,7 +2,7 @@
   "name": "bodybuilding.com-crawler",
   "version": "0.1.0",
   "description": "The data crawling from bodyduilding.com",
-  "main": "index.js",
+  "main": "./dist/main.js",
   "scripts": {
     "test": "npm run test"
   },
